@@ -1,0 +1,4 @@
+#Thu Jun 24 21:48:40 CST 2021
+base.0=C\:\\Users\\jhon\\Desktop\\FlyWeb_Flutter\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

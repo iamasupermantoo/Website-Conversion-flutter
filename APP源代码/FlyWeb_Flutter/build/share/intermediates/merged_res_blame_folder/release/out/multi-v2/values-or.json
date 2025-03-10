@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\jhon\\Desktop\\FlyWeb_Flutter\\build\\share\\intermediates\\res\\merged\\release\\values-or\\values-or.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jhon\\.gradle\\caches\\transforms-2\\files-2.1\\f976a16785094be2e9c07b28466a3aa2\\core-1.3.1\\res\\values-or\\values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\jhon\\Desktop\\FlyWeb_Flutter\\build\\share\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-or\\values-or.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jhon\\.gradle\\caches\\transforms-2\\files-2.1\\f976a16785094be2e9c07b28466a3aa2\\core-1.3.1\\res\\values-or\\values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

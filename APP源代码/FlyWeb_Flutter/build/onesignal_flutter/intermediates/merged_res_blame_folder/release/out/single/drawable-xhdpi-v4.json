@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\jhon\\Desktop\\FlyWeb_Flutter\\build\\onesignal_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\jhon\\.gradle\\caches\\transforms-2\\files-2.1\\175c2e520ce0b3e2b1f0d23e1738a1e4\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jhon\\Desktop\\FlyWeb_Flutter\\build\\onesignal_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\jhon\\.gradle\\caches\\transforms-2\\files-2.1\\175c2e520ce0b3e2b1f0d23e1738a1e4\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jhon\\Desktop\\FlyWeb_Flutter\\build\\onesignal_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\jhon\\.gradle\\caches\\transforms-2\\files-2.1\\419acb044038f2dcc377d85f9fb7b97a\\jetified-play-services-base-16.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jhon\\Desktop\\FlyWeb_Flutter\\build\\onesignal_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\jhon\\.gradle\\caches\\transforms-2\\files-2.1\\419acb044038f2dcc377d85f9fb7b97a\\jetified-play-services-base-16.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jhon\\Desktop\\FlyWeb_Flutter\\build\\onesignal_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\jhon\\.gradle\\caches\\transforms-2\\files-2.1\\419acb044038f2dcc377d85f9fb7b97a\\jetified-play-services-base-16.0.1\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\jhon\\Desktop\\FlyWeb_Flutter\\build\\onesignal_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\jhon\\.gradle\\caches\\transforms-2\\files-2.1\\419acb044038f2dcc377d85f9fb7b97a\\jetified-play-services-base-16.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jhon\\Desktop\\FlyWeb_Flutter\\build\\onesignal_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\jhon\\.gradle\\caches\\transforms-2\\files-2.1\\175c2e520ce0b3e2b1f0d23e1738a1e4\\core-1.1.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\jhon\\Desktop\\FlyWeb_Flutter\\build\\onesignal_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_os_notification_fallback_white_24dp.png",
+        "source": "C:\\Users\\jhon\\.gradle\\caches\\transforms-2\\files-2.1\\c705e1dca06128d81f17d25abb9d4d4c\\jetified-OneSignal-3.15.7\\res\\drawable-xhdpi-v4\\ic_os_notification_fallback_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\jhon\\Desktop\\FlyWeb_Flutter\\build\\onesignal_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\jhon\\.gradle\\caches\\transforms-2\\files-2.1\\175c2e520ce0b3e2b1f0d23e1738a1e4\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jhon\\Desktop\\FlyWeb_Flutter\\build\\onesignal_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\jhon\\.gradle\\caches\\transforms-2\\files-2.1\\419acb044038f2dcc377d85f9fb7b97a\\jetified-play-services-base-16.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jhon\\Desktop\\FlyWeb_Flutter\\build\\onesignal_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\jhon\\.gradle\\caches\\transforms-2\\files-2.1\\175c2e520ce0b3e2b1f0d23e1738a1e4\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jhon\\Desktop\\FlyWeb_Flutter\\build\\onesignal_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\jhon\\.gradle\\caches\\transforms-2\\files-2.1\\419acb044038f2dcc377d85f9fb7b97a\\jetified-play-services-base-16.0.1\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\jhon\\Desktop\\FlyWeb_Flutter\\build\\onesignal_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\jhon\\.gradle\\caches\\transforms-2\\files-2.1\\419acb044038f2dcc377d85f9fb7b97a\\jetified-play-services-base-16.0.1\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    }
+]
